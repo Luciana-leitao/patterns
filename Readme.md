@@ -1,1 +1,1 @@
-Este é um exemplo simples de uso do design pattern Factory Method (Método fábrica).
+Este é um exemplo simples de uso do design pattern Factory Method (Método fábrica) utilizando a linguagem Java.
