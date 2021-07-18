@@ -1,0 +1,1 @@
+Este é um exemplo simples de uso do design pattern Factory Method (Método fábrica).
